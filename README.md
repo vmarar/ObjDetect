@@ -1,4 +1,4 @@
-# ObjDetect
+# Contact Tracing Using object Detection
 Maintaing Social Distancing Using ObjDetection
 
 Using ImageAI, OpenCV and Matplotlib to detect people in a space, this script uses eucledian distance between centroids
